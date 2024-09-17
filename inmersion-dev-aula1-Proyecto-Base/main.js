@@ -4,7 +4,7 @@ let boton=document.getElementById('generar');
 let contrasena =document.getElementById('contrasena');
 let botonLimpiar=document.getElementById('limpiar');
 
-const cadenaCaracteres ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789./*#$%&@';
+const cadenaCaracteres ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()';
 
 function generarContrasena(){
 
